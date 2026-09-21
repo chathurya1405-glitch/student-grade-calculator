@@ -19,17 +19,25 @@ A beginner-friendly Python program that calculates a student's total marks, perc
 - `if-elif-else` conditions
 - `print()`
 
-## 🚀 How It Works
+## How It Works
 
 1. Enter the student's name.
 2. Enter marks for Maths, Python, and Data Science.
 3. The program calculates the total and percentage.
 4. It displays the corresponding grade.
 
-## 🌱 Learning Purpose
+## Learning Purpose
 
 This is a beginner Python project created as part of my learning journey.
 
 ---
 
-**Learning Python step by step. 🐍**
+Learning Python step by step.
+
+## Sample Output
+
+```text
+Student Name: Chathurya
+Total Marks: 255.0
+Percentage: 85.0 %
+Grade: B
